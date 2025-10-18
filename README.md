@@ -1,2 +1,2 @@
-# pierwszy_c1
+# Pierwszy_c1
 pierwszy projekt w c#
